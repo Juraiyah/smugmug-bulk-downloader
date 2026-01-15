@@ -30,6 +30,6 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/smugmug-bulk-downloader"
-Repository = "https://github.com/YOUR_USERNAME/smugmug-bulk-downloader"
-Issues = "https://github.com/YOUR_USERNAME/smugmug-bulk-downloader/issues"
+Homepage = "https://github.com/dannoll/smugmug-bulk-downloader"
+Repository = "https://github.com/dannoll/smugmug-bulk-downloader"
+Issues = "https://github.com/dannoll/smugmug-bulk-downloader/issues"
