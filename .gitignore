@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Configuration with credentials
+config.py
+
+# Downloaded files (if downloading into project directory)
+SmugMug-Downloads/
+downloads/
+test-download*/
+Skipped_Images/
+
+# Log files
+failed_downloads.txt
+duplicates.txt
+renamed_files.txt
+skipped_images.txt
+download_log.txt
